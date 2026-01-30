@@ -29,23 +29,4 @@ This combination provides better accuracy and stability compared to basic models
 - Streamlit
 - Pickle (for model saving)
 
----
-
-## 📂 Project Structure
-Email_spam/
-│
-├── app.py # Streamlit web app
-├── spam_predict.py # Prediction logic
-├── model.pkl # Trained ML model
-├── vectorizer.pkl # TF-IDF vectorizer
-├── requirements.txt # Required libraries
-
-
----
-
-## ▶️ How to Run Locally
-
-### 1️⃣ Install Dependencies
-```bash
-python -m pip install -r requirements.txt
 
